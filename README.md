@@ -1,0 +1,1 @@
+Using a free model (google/flan-t5-small) training is done on a database of smaller csv. Sample queries are developed for most common sql queries and model is trained on those queries. Re-training is done as needed to keep accuracy above 85% but test case is to 95%
